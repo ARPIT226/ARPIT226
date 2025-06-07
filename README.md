@@ -23,7 +23,7 @@
   <br>
   <p>
     <strong>Welcome to my digital playground!</strong><br>
-    🚀 I’m a <b>B.Tech Computer Science</b> student at <b>KIIT</b>.<br>
+    🚀 I’m a <b>B.Tech Computer Science</b> student at <b>SRM University</b>.<br>
     🖥️ I love <b>solving problems</b>, building cool web projects, and collaborating with awesome developers.<br>
     🌱 Currently sharpening my skills in <b>Full Stack Development</b>, <b>Data Structures</b>, and <b>Competitive Programming</b>.<br>
     🤝 I believe in <b>learning in public</b> and <b>helping others grow</b>.<br>

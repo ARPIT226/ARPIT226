@@ -32,8 +32,6 @@
   <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,awscli,boto3,terraform" alt="Tech stack" />
-  <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="IAM Badge" />
-  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RDS Badge" />
 </p>
 
   <h3 align="left">📊 GitHub Stats</h3>

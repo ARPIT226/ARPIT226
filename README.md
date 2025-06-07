@@ -3,16 +3,16 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/arpit226/" target="_blank">
+    <a href="https://www.linkedin.com/in/arpitsagar/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
-    <a href="mailto:your.email@gmail.com" target="_blank">
+    <a href="mailto:arpit226sagar@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
     </a>
-    <a href="https://leetcode.com/aqchandra15/" target="_blank">
+    <a href="https://leetcode.com/u/fruity_226/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
     </a>
   </div>

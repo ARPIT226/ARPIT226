@@ -9,9 +9,9 @@
     <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
-    <a href="arpit226sagar@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
-    </a>
+    <a href="mailto:arpit226sagar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
+</a>
     <a href="https://leetcode.com/u/fruity_226/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
     </a>

@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/arpitsagar/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-    </a>
     <a href="mailto:arpit226sagar@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
 </a>

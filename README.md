@@ -34,7 +34,7 @@
 
   <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,git,html,css,vscode,linux,aws,awscli,boto3,terraform" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,awscli,boto3,terraform" alt="Tech stack" />
 </p>
 
   <h3 align="left">📊 GitHub Stats</h3>

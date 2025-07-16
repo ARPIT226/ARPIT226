@@ -26,14 +26,12 @@
     I prefer hot water as breverage</b>.<br>
     <br>
     <em>"The best way to predict the future is to invent it."</em>
-  </p>
-  <br>
-
-  <h3 align="left">🛠️ Languages and Tools:</h3>
-  <p align="center">
+ <h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,awscli,boto3,terraform,ansible,docker,kubernetes,jenkins" alt="Tech stack" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" width="42" height="42" style="vertical-align: middle; margin-left: 5px;" />
 </p>
+
 
   <h3 align="left">📊 GitHub Stats</h3>
   <div align="center">

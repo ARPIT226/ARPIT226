@@ -48,6 +48,12 @@
     </table>
   </div>
   <br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARPIT226&show_icons=true&count_private=true&theme=tokyonight&hide=issues&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPIT226&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ARPIT226&theme=tokyonight&hide_border=true&background=FFFFFF00" />
+</p>
+
 
 
   <br><br>

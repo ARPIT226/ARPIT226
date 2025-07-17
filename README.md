@@ -42,7 +42,7 @@
 
   <br>
   <h3 align="left">📬 Let's Connect!</h3>
-  <p>Feel free to reach out for collaboration, coding, or just to say hi!</p>
+  <p>Feel free to reach out for collaboration, coding, or just to say hi @ <a href="https://www.linkedin.com/in/arpitsagar/">Here</a><br>!</p>
 </div>
 
 ---

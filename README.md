@@ -40,9 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ARPIT226&theme=tokyonight&hide_border=true&background=FFFFFF00" />
 </p>
 
-
-
-  <br><br>
+  <br>
   <h3 align="left">📬 Let's Connect!</h3>
   <p>Feel free to reach out for collaboration, coding, or just to say hi!</p>
 </div>

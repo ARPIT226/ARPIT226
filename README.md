@@ -28,14 +28,14 @@
     <em>"The best way to predict the future is to invent it."</em>
  <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,awscli,boto3,terraform,ansible,docker,kubernetes,jenkins" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=" alt="Tech stack" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" width="42" height="42" style="display:inline-block; vertical-align: middle; margin-left: -4px; margin-top: -6px;" />
 </p>
 
 <h2 align="center">🛠️ Tech Stack and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,cpp,html,css,nodejs,express,nextjs,react,tailwind,fastapi,nginx,docker,kubernetes,redis,mongodb,postgres,kafka,sqlite,aws,vercel,bash,git,github,linux,prisma,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,awscli,boto3,terraform,ansible,docker,kubernetes,jenkinsvscode&perline=10" />
   </a>
 </p>
 

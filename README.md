@@ -34,20 +34,6 @@
   </a>
 </p>
 
-  <h3 align="left">📊 GitHub Stats</h3>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=ARPIT226&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPIT226&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="Top Languages" />
-        </td>
-      </tr>
-    </table>
-  </div>
-  <br>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARPIT226&show_icons=true&count_private=true&theme=tokyonight&hide=issues&hide_border=true&bg_color=00000000" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPIT226&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI" />

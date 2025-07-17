@@ -26,11 +26,6 @@
     I prefer hot water as breverage</b>.<br>
     <br>
     <em>"The best way to predict the future is to invent it."</em>
- <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=" alt="Tech stack" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" width="42" height="42" style="display:inline-block; vertical-align: middle; margin-left: -4px; margin-top: -6px;" />
-</p>
 
 <h2 align="center">🛠️ Tech Stack and Tools</h2>
 <p align="center">

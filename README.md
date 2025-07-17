@@ -32,6 +32,13 @@
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" width="42" height="42" style="display:inline-block; vertical-align: middle; margin-left: -4px; margin-top: -6px;" />
 </p>
 
+<h2 align="center">🛠️ Tech Stack and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,cpp,html,css,nodejs,express,nextjs,react,tailwind,fastapi,nginx,docker,kubernetes,redis,mongodb,postgres,kafka,sqlite,aws,vercel,bash,git,github,linux,prisma,vscode&perline=10" />
+  </a>
+</p>
+
   <h3 align="left">📊 GitHub Stats</h3>
   <div align="center">
     <table>

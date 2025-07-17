@@ -30,7 +30,7 @@
 <h2 align="center">🛠️ Tech Stack and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,terraform,ansible,docker,kubernetes,jenkins,vscodejavascript,prometheus,grafana&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,mongodb,html,css,vscode,linux,aws,terraform,ansible,docker,kubernetes,jenkins,vscode,javascript,prometheus,grafana&perline=10" />
   </a>
 </p>
 
